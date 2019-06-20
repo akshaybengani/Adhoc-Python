@@ -15,5 +15,4 @@ for i in charArray:
         exit()
 
 for i in charArray:
-    os.system("sudo useradd "+i+" -p hello"+i)    
-    
+    os.system("sudo useradd "+i+" -p hello"+i) 
